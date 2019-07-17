@@ -1,0 +1,9 @@
+@media (max-width: 480px) {
+    h1 {
+        font-size: 28px
+    }
+}
+
+#map {
+    border: 0;
+}
